@@ -26,6 +26,9 @@ set(OpenCV_DIR "/path/to/include/opencv4/opencv2")
 
 ### Running the project
 
+TODO: Take input from terminal for model and image folder path
+Meanwhile, to run, in main.cpp, update paths in lines 42 and 46
+
 1. Open terminal in project directory, and create build directory:
 
 ```mkdir build```
